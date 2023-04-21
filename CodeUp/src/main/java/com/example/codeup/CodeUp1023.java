@@ -11,5 +11,6 @@ public class CodeUp1023 {
 
         System.out.printf("%d\n",Integer.parseInt(val[0]));
         System.out.printf("%d",Integer.parseInt(val[1]));
+
     }
 }

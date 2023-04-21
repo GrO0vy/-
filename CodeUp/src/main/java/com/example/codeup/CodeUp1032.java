@@ -11,4 +11,5 @@ public class CodeUp1032 {
         System.out.printf("%x",num);
         sc.close();
     }
+
 }

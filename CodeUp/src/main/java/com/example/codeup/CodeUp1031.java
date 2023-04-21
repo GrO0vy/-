@@ -9,4 +9,5 @@ public class CodeUp1031 {
 
         System.out.printf("%o",num);
     }
+
 }

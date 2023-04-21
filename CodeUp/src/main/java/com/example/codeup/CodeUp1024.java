@@ -11,5 +11,6 @@ public class CodeUp1024 {
         for(int i =0; i<word.length(); i++){
             System.out.printf("'%c'\n",word.charAt(i));
         }
+
     }
 }

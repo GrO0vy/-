@@ -10,4 +10,5 @@ public class CodeUp1026 {
         System.out.printf("%d",Integer.parseInt(time[1]));
         sc.close();
     }
+
 }

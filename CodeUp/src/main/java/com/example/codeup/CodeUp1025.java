@@ -11,5 +11,6 @@ public class CodeUp1025 {
             System.out.printf("[%d]\n",(num/(int)Math.pow(10,i)) * (int)Math.pow(10,i));
             num = num - (num/(int)Math.pow(10,i)) * (int)Math.pow(10,i);
         }
+
     }
 }

@@ -10,4 +10,5 @@ public class CodeUp1027 {
         System.out.printf("%02d-%02d-%04d",Integer.parseInt(date[2]),Integer.parseInt(date[1]),Integer.parseInt(date[0]));
         sc.close();
     }
+
 }
