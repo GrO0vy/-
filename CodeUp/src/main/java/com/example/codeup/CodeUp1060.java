@@ -2,11 +2,13 @@ package com.example.codeup;
 
 import java.util.Scanner;
 
-public class CodeUp1030 {
+public class CodeUp1060 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        long num = sc.nextLong();
 
-        System.out.println(num);
+        int num1 = sc.nextInt();
+        int num2 = sc.nextInt();
+
+        System.out.println(num1&num2);
     }
 }
